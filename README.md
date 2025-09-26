@@ -211,7 +211,8 @@ Heavy Industries Taxila (HIT) is a state-owned defense production facility in Pa
 
 ## 📞 Support
 
-For support and queries, please contact the development team or create an issue in this repository.
+For support and queries, please contact me or create an issue in this repository.
+aneebahmed11@outlook.com | aneebahmed91@gmail.com
 
 ---
 
