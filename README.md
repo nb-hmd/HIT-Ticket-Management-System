@@ -15,7 +15,7 @@ A comprehensive ticket management system built for Heavy Industries Taxila (HIT)
 - **User Management**: Role-based access control and user administration
 - **Factory Integration**: Multi-factory support with department-specific routing
 - **Real-time Updates**: Live status updates and notifications
-- **File Attachments**: Support for document and image uploads
+- **File Attachments**: Support for document and image uploads 
 
 ## 🛠️ Technology Stack
 
